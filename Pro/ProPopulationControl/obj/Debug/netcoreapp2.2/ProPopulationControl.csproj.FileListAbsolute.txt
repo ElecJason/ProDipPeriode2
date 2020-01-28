@@ -1,0 +1,11 @@
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\bin\Debug\netcoreapp2.2\ProPopulationControl.deps.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\bin\Debug\netcoreapp2.2\ProPopulationControl.runtimeconfig.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\bin\Debug\netcoreapp2.2\ProPopulationControl.runtimeconfig.dev.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\bin\Debug\netcoreapp2.2\ProPopulationControl.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\bin\Debug\netcoreapp2.2\ProPopulationControl.pdb
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.AssemblyInfoInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.AssemblyInfo.cs
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProPopulationControl\obj\Debug\netcoreapp2.2\ProPopulationControl.pdb

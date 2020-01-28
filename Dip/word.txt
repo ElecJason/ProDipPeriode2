@@ -1,0 +1,17 @@
+- Wat kan de speler allemaal?
+De speler kan slaan met zijn zwaard, lopen, rennen, springen, bukken en shielden
+- Hoe bestuur je de speler(s)?
+Je bestuurt laat hem lopen met wasd en springen met spatie, slaan is met mouse1, shielden mouse2. Rennen is voor langere tijd een loop knop inhouden en bukken doe je met down in te houden
+- Waar bestaat de omgeving uit?
+Een kasteel met een dungeon 
+- Welke andere objecten zijn er (bijv. vijanden en obstakels)?
+Er zijn skeleton bewaarders, een reuzen skelet als eindbaas, wat explosieven barrels om dingen op te blazen, meerdere wapens die je kan vinden.
+
+- Welke interactie is er tussen de speler en de andere objecten?
+Je kan enemy’s slaan, de envoirments is semi destroyable.
+
+- Wanneer kun je winnen?
+Als de de eindbaas hebt verslagen of de gevangene red
+
+- Wanneer kun je verliezen?
+Als je doodgaat of de gevangene niet kan redden

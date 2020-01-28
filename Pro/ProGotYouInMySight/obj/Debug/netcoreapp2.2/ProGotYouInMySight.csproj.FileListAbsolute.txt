@@ -1,0 +1,11 @@
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\bin\Debug\netcoreapp2.2\ProGotYouInMySight.deps.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\bin\Debug\netcoreapp2.2\ProGotYouInMySight.runtimeconfig.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\bin\Debug\netcoreapp2.2\ProGotYouInMySight.runtimeconfig.dev.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\bin\Debug\netcoreapp2.2\ProGotYouInMySight.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\bin\Debug\netcoreapp2.2\ProGotYouInMySight.pdb
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.AssemblyInfoInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.AssemblyInfo.cs
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\ProGotYouInMySight\obj\Debug\netcoreapp2.2\ProGotYouInMySight.pdb

@@ -1,0 +1,15 @@
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\pro2\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\pro2\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\pro2\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.AssemblyInfoInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\pro2\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.AssemblyInfo.cs
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.AssemblyInfoInputs.cache
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.AssemblyInfo.cs
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\bin\Debug\netcoreapp2.2\Pro2calculator.deps.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\bin\Debug\netcoreapp2.2\Pro2calculator.runtimeconfig.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\bin\Debug\netcoreapp2.2\Pro2calculator.runtimeconfig.dev.json
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\bin\Debug\netcoreapp2.2\Pro2calculator.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\bin\Debug\netcoreapp2.2\Pro2calculator.pdb
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.dll
+C:\Users\jason\Desktop\bewijzenmap\periode1.2\Pro\Pro2calculator\obj\Debug\netcoreapp2.2\Pro2calculator.pdb
